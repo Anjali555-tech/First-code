@@ -1,6 +1,6 @@
 # First-code
 
-import random
+
 '''Snake vs. Water: Water douses the snake. Water wins!
 Water vs. Gun: Gun shoots water. Gun wins!
 Gun vs. Snake: Snake bites the gun. Snake wins'''
